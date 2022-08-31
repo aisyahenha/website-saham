@@ -1,0 +1,13 @@
+// @import '~bootstrap/scss/bootstrap.scss';
+$green-pastel: #B1D7B4; //233d90
+$enigma-color: #233d90;
+$general-color:#FFF4CF;
+.bg-cute-green{
+  background-color: $green-pastel;
+}
+.btn-enigma{
+  background: $enigma-color;
+}
+// body{
+//   background: $general-color;
+// }
