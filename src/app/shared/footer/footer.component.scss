@@ -2,3 +2,13 @@ $green-pastel: #B1D7B4;
 .card-footer{
     background-color: $green-pastel;
 }
+
+footer {
+    background-color: $green-pastel;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    margin-top: 50px;;
+  }
